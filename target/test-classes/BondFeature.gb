@@ -1,0 +1,245 @@
+LOCUS       NM_000266               2058 bp    mRNA    linear   PRI 15-MAR-2015
+DEFINITION  Homo sapiens Norrie disease (pseudoglioma) (NDP), mRNA.
+ACCESSION   NM_000266
+VERSION     NM_000266.3  GI:223671892
+KEYWORDS    RefSeq.
+SOURCE      Homo sapiens (human)
+  ORGANISM  Homo sapiens
+            Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi;
+            Mammalia; Eutheria; Euarchontoglires; Primates; Haplorrhini;
+            Catarrhini; Hominidae; Homo.
+REFERENCE   1  (bases 1 to 2058)
+  AUTHORS   Ke J, Harikumar KG, Erice C, Chen C, Gu X, Wang L, Parker N, Cheng
+            Z, Xu W, Williams BO, Melcher K, Miller LJ and Xu HE.
+  TITLE     Structure and function of Norrin in assembly and activation of a
+            Frizzled 4-Lrp5/6 complex
+  JOURNAL   Genes Dev. 27 (21), 2305-2319 (2013)
+   PUBMED   24186977
+  REMARK    GeneRIF: Norrin induces the formation of a ternary complex with Fz4
+            and Lrp5/6 by binding to their respective extracellular domains
+REFERENCE   2  (bases 1 to 2058)
+  AUTHORS   Deng C, Reddy P, Cheng Y, Luo CW, Hsiao CL and Hsueh AJ.
+  TITLE     Multi-functional norrin is a ligand for the LGR4 receptor
+  JOURNAL   J. Cell. Sci. 126 (PT 9), 2060-2068 (2013)
+   PUBMED   23444378
+  REMARK    GeneRIF: Multi-functional norrin is a ligand for the LGR4 receptor.
+REFERENCE   3  (bases 1 to 2058)
+  AUTHORS   Ghosh M, Sharma S, Shastri S, Arora S, Shukla R, Gupta N, Deka D
+            and Kabra M.
+  TITLE     Norrie disease: first mutation report and prenatal diagnosis in an
+            Indian family
+  JOURNAL   Indian J Pediatr 79 (11), 1529-1531 (2012)
+   PUBMED   22674248
+  REMARK    GeneRIF: Report of a missense mutation, p.Arg41Ser, in NDP causing
+            Norrie disease in an Indian family.
+REFERENCE   4  (bases 1 to 2058)
+  AUTHORS   Perez-Vilar J and Hill RL.
+  TITLE     Norrie disease protein (norrin) forms disulfide-linked oligomers
+            associated with the extracellular matrix
+  JOURNAL   J. Biol. Chem. 272 (52), 33410-33415 (1997)
+   PUBMED   9407136
+REFERENCE   5  (bases 1 to 2058)
+  AUTHORS   Meitinger T, Meindl A, Bork P, Rost B, Sander C, Haasemann M and
+            Murken J.
+  TITLE     Molecular modelling of the Norrie disease protein predicts a
+            cystine knot growth factor tertiary structure
+  JOURNAL   Nat. Genet. 5 (4), 376-380 (1993)
+   PUBMED   8298646
+REFERENCE   6  (bases 1 to 2058)
+  AUTHORS   Bardakjian,T., Weiss,A. and Schneider,A.S.
+  TITLE     Anophthalmia/Microphthalmia Overview
+  JOURNAL   (in) Pagon RA, Adam MP, Ardinger HH, Bird TD, Dolan CR, Fong CT,
+            Smith RJH and Stephens K (Eds.);
+            GENEREVIEWS(R);
+            (1993)
+   PUBMED   20301552
+REFERENCE   7  (bases 1 to 2058)
+  AUTHORS   Sims,K.B.
+  TITLE     NDP-Related Retinopathies
+  JOURNAL   (in) Pagon RA, Adam MP, Ardinger HH, Bird TD, Dolan CR, Fong CT,
+            Smith RJH and Stephens K (Eds.);
+            GENEREVIEWS(R);
+            (1993)
+   PUBMED   20301506
+REFERENCE   8  (bases 1 to 2058)
+  AUTHORS   Berger,W., Meindl,A., van de Pol,T.J., Cremers,F.P., Ropers,H.H.,
+            Doerner,C., Monaco,A., Bergen,A.A., Lebo,R., Warburgh,M. et al.
+  TITLE     Isolation of a candidate gene for Norrie disease by positional
+            cloning
+  JOURNAL   Nat. Genet. 2 (1), 84 (1992)
+   PUBMED   1303256
+  REMARK    Correction to:[Nat Genet. 1992 Jun;1(3):199-203. PMID: 1303235]
+REFERENCE   9  (bases 1 to 2058)
+  AUTHORS   Chen ZY, Hendriks RW, Jobling MA, Powell JF, Breakefield XO, Sims
+            KB and Craig IW.
+  TITLE     Isolation and characterization of a candidate gene for Norrie
+            disease
+  JOURNAL   Nat. Genet. 1 (3), 204-208 (1992)
+   PUBMED   1303236
+REFERENCE   10 (bases 1 to 2058)
+  AUTHORS   Berger W, Meindl A, van de Pol TJ, Cremers FP, Ropers HH, Doerner
+            C, Monaco A, Bergen AA, Lebo R and Warburg M.
+  CONSRTM   et al
+  TITLE     Isolation of a candidate gene for Norrie disease by positional
+            cloning
+  JOURNAL   Nat. Genet. 1 (3), 199-203 (1992)
+   PUBMED   1303235
+  REMARK    Erratum:[Nat Genet. 1992 Sep;2(1):84. PMID: 1303256]
+COMMENT     REVIEWED REFSEQ: This record has been curated by NCBI staff. The
+            reference sequence was derived from DA714180.1, X65882.1 and
+            BC029901.1.
+            This sequence is a reference standard in the RefSeqGene project.
+            On Feb 18, 2009 this sequence version replaced gi:156713445.
+            
+            Summary: This gene encodes a secreted protein with a cystein-knot
+            motif that activates the Wnt/beta-catenin pathway. The protein
+            forms disulfide-linked oligomers in the extracellular matrix.
+            Mutations in this gene result in Norrie disease and X-linked
+            exudative vitreoretinopathy. [provided by RefSeq, Feb 2009].
+            
+            Publication Note:  This RefSeq record includes a subset of the
+            publications that are available for this gene. Please see the Gene
+            record to access additional publications.
+            
+            ##Evidence-Data-START##
+            Transcript exon combination :: X65724.1, AL541183.3 [ECO:0000332]
+            RNAseq introns              :: mixed/partial sample support
+                                           SAMEA2153427, SAMEA2155371
+                                           [ECO:0000350]
+            ##Evidence-Data-END##
+            COMPLETENESS: complete on the 3' end.
+PRIMARY     REFSEQ_SPAN         PRIMARY_IDENTIFIER PRIMARY_SPAN        COMP
+            1-171               DA714180.1         1-171
+            172-1838            X65882.1           1-1667
+            1839-2058           BC029901.1         1276-1495
+FEATURES             Location/Qualifiers
+     source          1..2058
+                     /organism="Homo sapiens"
+                     /mol_type="mRNA"
+                     /db_xref="taxon:9606"
+                     /chromosome="X"
+                     /map="Xp11.4"
+     gene            1..2058
+                     /gene="NDP"
+                     /gene_synonym="EVR2; FEVR; ND"
+                     /note="Norrie disease (pseudoglioma)"
+                     /db_xref="GeneID:4693"
+                     /db_xref="HGNC:HGNC:7678"
+                     /db_xref="HPRD:02404"
+                     /db_xref="MIM:300658"
+     exon            1..372
+                     /gene="NDP"
+                     /gene_synonym="EVR2; FEVR; ND"
+                     /inference="alignment:Splign:1.39.8"
+     STS             263..978
+                     /gene="NDP"
+                     /gene_synonym="EVR2; FEVR; ND"
+                     /standard_name="GDB:607687"
+                     /db_xref="UniSTS:158265"
+     exon            373..753
+                     /gene="NDP"
+                     /gene_synonym="EVR2; FEVR; ND"
+                     /inference="alignment:Splign:1.39.8"
+     misc_feature    502..504
+                     /gene="NDP"
+                     /gene_synonym="EVR2; FEVR; ND"
+                     /note="upstream in-frame stop codon"
+     CDS             580..981
+                     /gene="NDP"
+                     /gene_synonym="EVR2; FEVR; ND"
+                     /note="norrin; norrie disease protein; X-linked exudative
+                     vitreoretinopathy 2 protein"
+                     /codon_start=1
+                     /product="norrin precursor"
+                     /protein_id="NP_000257.1"
+                     /db_xref="GI:4557789"
+                     /db_xref="CCDS:CCDS14262.1"
+                     /db_xref="GeneID:4693"
+                     /db_xref="HGNC:HGNC:7678"
+                     /db_xref="HPRD:02404"
+                     /db_xref="MIM:300658"
+                     /translation="MRKHVLAASFSMLSLLVIMGDTDSKTDSSFIMDSDPRRCMRHHY
+                     VDSISHPLYKCSSKMVLLARCEGHCSQASRSEPLVSFSTVLKQPFRSSCHCCRPQTSK
+                     LKALRLRCSGGMRLTATYRYILSCHCEECNS"
+     sig_peptide     580..651
+                     /gene="NDP"
+                     /gene_synonym="EVR2; FEVR; ND"
+                     /inference="COORDINATES: ab initio prediction:SignalP:4.0"
+     mat_peptide     652..978
+                     /gene="NDP"
+                     /gene_synonym="EVR2; FEVR; ND"
+                     /product="norrin"
+     exon            754..2004
+                     /gene="NDP"
+                     /gene_synonym="EVR2; FEVR; ND"
+                     /inference="alignment:Splign:1.39.8"
+     STS             1206..1442
+                     /gene="NDP"
+                     /gene_synonym="EVR2; FEVR; ND"
+                     /standard_name="GDB:607670"
+                     /db_xref="UniSTS:158260"
+     STS             1214..1542
+                     /gene="NDP"
+                     /gene_synonym="EVR2; FEVR; ND"
+                     /standard_name="SHGC-12355"
+                     /db_xref="UniSTS:64918"
+     STS             1623..1949
+                     /gene="NDP"
+                     /gene_synonym="EVR2; FEVR; ND"
+                     /standard_name="GDB:607683"
+                     /db_xref="UniSTS:158264"
+     STS             1623..1740
+                     /gene="NDP"
+                     /gene_synonym="EVR2; FEVR; ND"
+                     /standard_name="GDB:607667"
+                     /db_xref="UniSTS:158259"
+     STS             1722..1856
+                     /gene="NDP"
+                     /gene_synonym="EVR2; FEVR; ND"
+                     /standard_name="STS-X65724"
+                     /db_xref="UniSTS:71366"
+     regulatory      1983..1988
+                     /regulatory_class="polyA_signal_sequence"
+                     /gene="NDP"
+                     /gene_synonym="EVR2; FEVR; ND"
+     polyA_site      2004
+                     /gene="NDP"
+                     /gene_synonym="EVR2; FEVR; ND"
+ORIGIN      
+        1 aagatgctcc gtggaaggga gccgagcggt gggcagaggc tgagtccccg ataacgagcg
+       61 cctcacattt ccgtggcatt cccatttgct agtgcgctgc tgcggccgca cgcctgattg
+      121 atatatgact gcaatggcac ttttccattt gacattctct ctctctctct ccctctctct
+      181 ctctccctct ctctctccct ctctctctct ccctgtgtcg cttaaacaac agtcctaact
+      241 tttgtgtgtt gcaaatataa aaggcaagcc atgtgacaga gggacagaag aacaaaagca
+      301 tttggaagta acaggacctc tttctagctc tcagaaaagt ctgagaagaa aggagccctg
+      361 cgttccccta agctgtgcag cagatactgt gatgatggat tgcaagtgca aagagtaaga
+      421 caaaactcca gcacataaag gacaatgaca accagaaagc ttcagcccga tcctgccctt
+      481 tccttgaacg ggactggatc ctaggaggtg aagccatttc caattttttg tcctctgcct
+      541 ccctctgctg ttcttctaga gaagtttttc cttacaacaa tgagaaaaca tgtactagct
+      601 gcatcctttt ctatgctctc cctgctggtg ataatgggag atacagacag taaaacggac
+      661 agctcattca taatggactc ggaccctcga cgctgcatga ggcaccacta tgtggattct
+      721 atcagtcacc cattgtacaa gtgtagctca aagatggtgc tcctggccag gtgcgagggg
+      781 cactgcagcc aggcgtcacg ctccgagcct ttggtgtcgt tcagcactgt cctcaagcaa
+      841 cccttccgtt cctcctgtca ctgctgccgg ccccagactt ccaagctgaa ggcactgcgg
+      901 ctgcgatgct cagggggcat gcgactcact gccacctacc ggtacatcct ctcctgtcac
+      961 tgcgaggaat gcaattcctg aggcccgctg ctgtgtgtgg cttctggatg ggacaactgt
+     1021 agaggcagtt cgaccagcca gggaaagact ggcaagaaaa gagttaaggc aaaaaaggat
+     1081 gcaacaattc tcccgggact ctgcatattc tagtaataaa gactctacat gcttgttgac
+     1141 agagagagat actctgggaa cttctttgca gttcccatct cctttctctg gtacaatttc
+     1201 ttttggttca ttttcagatt caggcatttt cccccttggc tctcaatgct gtttgggttt
+     1261 ccaacaattc agcattagtg ggaaaaagtg ggccctcata cacaagcgtg tcaggctgtc
+     1321 agtgtttggt gcacgctggg gaagaattta ctttggaaag tagaaaagcc cagcttttcc
+     1381 tgggacatct tctgttattg ttgatgtttt tttttacctt gtcattttgg tctaaggttg
+     1441 ccattgctgc taaaggttac cgatttcaaa gtccagatac caagcatgtg gatatgttta
+     1501 gctacgttta ctcacagcca gcgaactgac attaaaataa ctaacaaaca gattctttta
+     1561 tgtgatgctg gaactcttga cagctataat tattattcag aaatgacttt ttgaaagtaa
+     1621 aagcagcata aagaatttgt cacaggaagg ctgtctcaga taaattatgg taaaattttg
+     1681 taagggagca gacttttaaa gacttgcaca aatacggatc ctgcactgac tctggaaaag
+     1741 gcatatatgt actagtggca tggagaatgc accatactca tgcatgcaaa ttagacaacc
+     1801 aagtatgaat ctatttgtgg gtgtgctata gctttagccg tgtcacgggc atcattctct
+     1861 aatatccact tgtccatgtg aaacatgttg ccaaaatggt ggcctggctt gtcttctgaa
+     1921 cgtttggttc aaatgtgttt tggtcctgga ggctcaaatt ttgagttatt cccacgtttt
+     1981 gaaataaaaa gagtatattc aaaaaaaaaa aaaaaaaaaa aaaaaaaaaa aaaaaaaaaa
+     2041 aaaaaaaaaa aaaaaaaa
+//
+
